@@ -2,6 +2,7 @@
 
 Listy is a modern, intuitive grocery shopping list management application designed to make your shopping experience efficient and enjoyable.
 
+ 🛑 Still a work in progress
 
 
 ## Features 🌟
